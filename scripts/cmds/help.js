@@ -3,7 +3,7 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete = "[ ♥︎╣[-𝖠 𝖱 𝖸 𝖠 𝖭-]╠♥︎ ]"; // changing this wont change the goatbot V2 of list cmd it is just a decoyy
+const doNotDelete = "[ 𝗔 𝗥 𝗬 𝗔 𝗡 ]"; // changing this wont change the goatbot V2 of list cmd it is just a decoyy
 
 module.exports = {
   config: {
@@ -60,9 +60,9 @@ module.exports = {
       });
 
       const totalCommands = commands.size;
-      msg += `\n\n╭─────❃[ 𝖤𝖭𝖩𝖮𝖸 ]\n│> 𝖳𝖮𝖳𝖠𝖫 𝖢𝖬𝖣𝖲 : [${totalCommands}].\n│𝖳𝖸𝖯𝖤 : [ ${prefix}𝖧𝖤𝖫𝖯 𝖳𝖮 \n│<𝖢𝖬𝖣> 𝖳𝖮 𝖫𝖤𝖠𝖱𝖭 𝖳𝖧𝖤 𝖴𝖲𝖠𝖦𝖤.]\n╰────────────✦`;
+      msg += `\n\n╭─────❃[𝗘𝗡𝗝𝗢𝗬]\n│>𝗧𝗢𝗧𝗔𝗟 𝗖𝗠𝗗𝗦: [${totalCommands}].\n│𝗧𝗬𝗣𝗘𝖳:[ ${prefix}𝗛𝗘𝗟𝗣 𝗧𝗢\n│<𝗖𝗠𝗗> 𝗧𝗢 𝗟𝗘𝗔𝗥𝗡 𝗧𝗛𝗘 𝗨𝗦𝗔𝗚𝗘.]\n╰────────────✦`;
       msg += ``;
-      msg += `\n╭─────❃\n│🌟 | [ ♥︎╣[-𝖠 𝖱 𝖸 𝖠 𝖭-]╠♥︎ ]\n│https://www.facebook.com/ArYan.com.404\n╰────────────✦`; // its not decoy so change it if you want 
+      msg += `\n╭─────❃\n│🌟 | [ 𝗔 𝗥 𝗬 𝗔 𝗡 ]\n│https://www.facebook.com/ArYan.com.404\n╰────────────✦`; // its not decoy so change it if you want 
 
 
       await message.reply({
