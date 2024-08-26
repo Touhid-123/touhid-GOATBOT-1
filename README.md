@@ -4,13 +4,13 @@
   
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+Bot+run+korte+file+labe🤩;Inbox+sms+Dew+file+pabe🥀;নিচে*Facebook*লগো;চাপ*দাওMy😃🥰;+All+Friend+🤙+🥰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+Bot+run+korte+file+labe🤩;Inbox+sms+Dew+file+pabe🥀;নিচে*messenger*লগো;চাপ*দাও😃🥰;+All+Friend+🤙+🥰)](https://git.io/typing-svg)
 
 
-AMAR FACEBOK ACOUNT SMS DEW
+AMAR MESSENGER ACOUNT SMS DEW
 </h1>
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=61560375460072" target="_blank" rel="CliffVincent"><img src="https://i.imgur.com/5ptyKLM.jpeg" width="100" /></a>
+  <a href="https://m.me/Aryan.com.505" target="_blank" rel="CliffVincent"><img src="https://i.imgur.com/pknphli.png" width="100" /></a>
   
 
 
