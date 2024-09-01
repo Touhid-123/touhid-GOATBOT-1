@@ -5,8 +5,8 @@ module.exports = {
 	config: {
 		name: "info",
 		version: "1.0",
-		author: "TOUHID",
-		countDown: 18+,
+		author: "Ar yan",
+		countDown: 20,
 		role: 0,
 		shortDescription: { vi: "", en: "" },
 		longDescription: { vi: "", en: "" },
