@@ -5,8 +5,8 @@ module.exports = {
 	config: {
 		name: "info",
 		version: "1.0",
-		author: "ARYAN",
-		countDown: 20,
+		author: "TOUHID",
+		countDown: 18+,
 		role: 0,
 		shortDescription: { vi: "", en: "" },
 		longDescription: { vi: "", en: "" },
@@ -37,15 +37,15 @@ module.exports = {
 		const uptimeString = `${days} days ${hours} hours ${minutes} minutes ${seconds} seconds`;
 
 		message.reply({
-			body: `  🍒ᗩᖇYᗩᑎ IᑎᖴO🍒  \n
-🤖 Bot Name: ${botName}
-🚀 Prefix: ${botPrefix}
-👤 Owner: ${authorName}
+			body: `  🍒TOUHID INFO🍒  \n
+🤖 Bot Name: ${JANTE HOBE NA }
+🚀 Prefix: ${.}
+👤 Owner: ${TOUHID}
 🔆 Age: ${ownAge}
-☢️ Team: ${teamName}
-🍒 authorFb: ${authorFB}
-📱 insta: ${authorInsta}
-🏠 TikTok: ${tikTok}
+☢️ Team: ${LION}
+🍒 authorFb: ${https://www.facebook.com/XmaskingNowpara?mibextid=ZbWKwL}
+📱 insta: ${DIMU NA }
+🏠 TikTok: ${https://www.tiktok.com/@yourtouhid1276?_t=8pMK3W4GPPL&_r=1}
 🖊️ stutes: ${st}
 ⏱️ seconds: ${seconds}
 🕰️ minutes: ${minutes}
