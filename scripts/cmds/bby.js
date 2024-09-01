@@ -33,7 +33,7 @@ module.exports.config = {
   name: "bby",
   version: "1.0.0",
   role: 0,
-  author: "dipto",
+  author: "DipTo-ArYaN",
   description: "better then all Sim simi with multiple conversation",
   guide: { en: "[message]" },
   category: "ChatBots",
@@ -72,7 +72,7 @@ module.exports.onStart = async function ({ api, args, event }) {
     const dipto = args.join(" ").toLowerCase();
     if (!args[0]) {
       api.sendMessage(
-        "সখের মানুষটা কে নিয়ে একটা লাইন....?😌🎤",
+        "Please provide a question to answer\n\nExample:\nbaby ki koro",
         event.threadID,
         event.messageID,
       );
